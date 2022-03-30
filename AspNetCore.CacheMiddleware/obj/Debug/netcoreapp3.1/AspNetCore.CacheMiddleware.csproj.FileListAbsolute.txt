@@ -1,0 +1,10 @@
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\obj\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.csproj.AssemblyReference.cache
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\obj\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\obj\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.AssemblyInfoInputs.cache
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\obj\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.AssemblyInfo.cs
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\obj\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.csproj.CoreCompileInputs.cache
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\bin\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.deps.json
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\bin\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.dll
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\bin\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.pdb
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\obj\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.dll
+D:\20220210\新建文件夹\AspNetCore.CacheMiddleware\AspNetCore.CacheMiddleware\obj\Debug\netcoreapp3.1\AspNetCore.CacheMiddleware.pdb
