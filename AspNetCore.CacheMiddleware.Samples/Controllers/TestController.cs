@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace AspNetCore.CacheMiddleware.Samples.Controllers
 {
@@ -13,7 +14,9 @@ namespace AspNetCore.CacheMiddleware.Samples.Controllers
         [CacheOpen]
         public IEnumerable<string> GetList()
         {
-            return new string[] { "value1", "value2" };
+            Task.Delay(5000).GetAwaiter().GetResult();
+            var list= new string[] { "value1", "value2" };
+            return list;
         }
 
 

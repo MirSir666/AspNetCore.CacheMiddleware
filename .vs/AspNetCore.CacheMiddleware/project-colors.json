@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "34df80ad-3580-49e0-80ec-dbbbb9e188c9": {
+      "ProjectGuid": "34df80ad-3580-49e0-80ec-dbbbb9e188c9",
+      "DisplayName": "AspNetCore.CacheMiddleware",
+      "ColorIndex": 0
+    },
+    "69d76fd1-aedb-4a8b-99c3-bedbcbe02d65": {
+      "ProjectGuid": "69d76fd1-aedb-4a8b-99c3-bedbcbe02d65",
+      "DisplayName": "AspNetCore.CacheMiddleware.Samples",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -585,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
+      "projectUniqueName": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
       "projectName": "AspNetCore.CacheMiddleware",
-      "projectPath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
+      "projectPath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
       "packagesPath": "C:\\Users\\mirsir\\.nuget\\packages\\",
-      "outputPath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\obj\\",
+      "outputPath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mirsir\\AppData\\Roaming\\NuGet\\NuGet.Config",

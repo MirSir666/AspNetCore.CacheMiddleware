@@ -1,12 +1,44 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.Features;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using System;
 using System.IO;
 using System.Net.Http;
+using System.Reflection.Metadata;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace AspNetCore.CacheMiddleware
 {
+
+//    public class CustomMiddleware
+//    {
+//        private readonly RequestDelegate next;
+
+//        public CustomMiddleware(RequestDelegate next)
+//        {
+//            this.next = next;
+//        }
+
+//        public async Task Invoke(HttpContext context)
+//        {
+//            // Get the enpoint which is executing (asp.net core 3.0 only)
+//            var executingEnpoint = context.GetEndpoint();
+
+//// Get attributes on the executing action method and it's defining controller class
+//            var attributes = executingEnpoint.Metadata.OfType<MyCustomAttribute>();
+
+//            await next(context);
+
+//            // Get the enpoint which was executed (asp.net core 2.2 possible after call to await next(context))
+//            var executingEnpoint2 = context.GetEndpoint();
+
+//// Get attributes on the executing action method and it's defining controller class
+//            var attributes2 = executingEnpoint.Metadata.OfType<MyCustomAttribute>();
+//        }
+//    }
     public class CacheMiddleware
     {
         private readonly RequestDelegate next;
@@ -21,13 +53,14 @@ namespace AspNetCore.CacheMiddleware
         public async Task InvokeAsync(HttpContext context)
         {
             var endpointFeature = context.Features.Get<IEndpointFeature>();
-            if (endpointFeature == null)
+            if (endpointFeature == null|| endpointFeature.Endpoint==null)
             {
                 await next(context);
                 return;
             }
 
-            var attribute = endpointFeature?.Endpoint.Metadata.GetMetadata<CacheOpenAttribute>();
+            var attribute = endpointFeature.Endpoint.Metadata.GetMetadata<CacheOpenAttribute>();
+
             if (attribute == null)
             {
                 await next(context);

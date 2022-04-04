@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pDAiUMHRdknpReGqbtU1jjEwKOvJYv54/nOMoR2V1fwvKGwDG3J44KMs4MKr0CxFuGWfBDffIhAzWRgZsJQxsw==",
+  "dgSpecHash": "E4aQvRgK/MRWoVaiPx26TVgeRgdaS/OVdlNSiebN6LYR3rOBOB8g8x3cfctBnqx29nwpNVIdm+Z1iOtHm9kQaw==",
   "success": true,
-  "projectFilePath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
+  "projectFilePath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mirsir\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mirsir\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

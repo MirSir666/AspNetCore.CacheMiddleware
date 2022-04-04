@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj": {}
+    "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj": {}
   },
   "projects": {
-    "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj": {
+    "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj",
+        "projectUniqueName": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj",
         "projectName": "AspNetCore.CacheMiddleware.Samples",
-        "projectPath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj",
+        "projectPath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\AspNetCore.CacheMiddleware.Samples.csproj",
         "packagesPath": "C:\\Users\\mirsir\\.nuget\\packages\\",
-        "outputPath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\obj\\",
+        "outputPath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.Samples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirsir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj": {
-                "projectPath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj"
+              "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj": {
+                "projectPath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj": {
+    "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
+        "projectUniqueName": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
         "projectName": "AspNetCore.CacheMiddleware",
-        "projectPath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
+        "projectPath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware.csproj",
         "packagesPath": "C:\\Users\\mirsir\\.nuget\\packages\\",
-        "outputPath": "D:\\20220210\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\obj\\",
+        "outputPath": "D:\\20220210\\新建文件夹\\新建文件夹\\AspNetCore.CacheMiddleware\\AspNetCore.CacheMiddleware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirsir\\AppData\\Roaming\\NuGet\\NuGet.Config",
